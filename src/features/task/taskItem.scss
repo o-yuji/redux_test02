@@ -1,0 +1,16 @@
+.task-item-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-item-check {
+  width: 24px;
+  height: 24px;
+  margin: 12px;
+}
+
+.trash-icon {
+  margin-left: 12px;
+  cursor: pointer;
+}

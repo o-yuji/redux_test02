@@ -1,0 +1,15 @@
+.user-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: skyblue;
+  width: 400px;
+  height: auto;
+  padding: 10px;
+  min-height: 80px;
+  margin: 6px;
+  list-style: none;
+  border: solid 6px hwb(227 12% 3%);
+  border-radius: 12px;
+}
